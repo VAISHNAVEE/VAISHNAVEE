@@ -1,0 +1,7 @@
+Time dependent data visualization on geographical map. Developed a web application for with dash framework using PYTHON (plotly, express, dash, numpy, pandas) CSS and HTML. 
+Visualizing overall world wide dataset of COVID-19 cases in continent, country wise on choropleth map with color code (intensity) of year 2019 - 2020 mid. 
+Visualization Techniques:
+I. Geo visualization technique (Visual variable: color): For task 1.
+II. Line based techniques: For task 3.
+III. Region based techniques: For task 2.
+User Interaction flow and design/mapping with the visualization technique
